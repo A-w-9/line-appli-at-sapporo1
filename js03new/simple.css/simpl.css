@@ -1,0 +1,15 @@
+body{
+    background-color:#bbded6 ;
+}
+#memo{
+    text-align: center;
+}
+#uname{
+    background-color: #fae3d9;
+}
+#text{
+    background-color: #fae3d9;
+}
+#output{
+    overflow: scroll;
+}
